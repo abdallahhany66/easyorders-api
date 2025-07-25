@@ -1,0 +1,7 @@
+{
+  "platform": "EasyOrders",
+  "integration": "AliExpress",
+  "api_key": "ضع هنا مفتاح الـ API",
+  "store_url": "https://cozy-corneras.myeasyorders.com",
+  "status": "ready"
+}
